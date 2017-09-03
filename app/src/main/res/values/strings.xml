@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="la_hint_enter_username">Enter username</string>
+    <string name="la_hint_enter_password">Enter password</string>
+    <string name="la_txt_sign_in">Sign In</string>
+    <string name="la_txt_sign_up">Sign Up</string>
+    <string name="la_txt_forgot_login_password">Forgot login password</string>
+    <string name="ha_tv_welcome_to_home_page">Welcome to home page</string>
+    <string name="pra_tv_welcome_to_password_recovery_page">Welcome to password recovery page</string>
+    <string name="sua_hint_first_name">First Name</string>
+    <string name="sua_hint_middle_name">Middle Name</string>
+    <string name="sua_hint_last_name">Last Name</string>
+    <string name="sua_hint_set_username">Set Username</string>
+    <string name="sua_hint_set_password">Set Password</string>
+    <string name="sua_txt_gender">Gender:</string>
+    <string name="sua_rb_male">Male</string>
+    <string name="sua_rb_female">Female</string>
+    <string name="sua_rb_others">Others</string>
+    <string name="sua_hint_gmail">Gmail</string>
+    <string name="sua_hint_mobile_number">Mobile Number</string>
+    <string name="sua_btn_register">Register</string>
+    <string name="sua_btn_clear">Clear</string>
+</resources>
