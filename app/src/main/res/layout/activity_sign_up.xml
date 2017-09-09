@@ -12,7 +12,7 @@
 
     <EditText
         android:id="@+id/sua_et_first_name"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -27,7 +27,7 @@
 
     <EditText
         android:id="@+id/sua_et_middle_name"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -42,7 +42,7 @@
 
     <EditText
         android:id="@+id/sua_et_last_name"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -58,7 +58,7 @@
 
     <EditText
         android:id="@+id/sua_et_set_username"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -73,7 +73,7 @@
 
     <EditText
         android:id="@+id/sua_et_set_password"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -88,7 +88,7 @@
 
     <LinearLayout
         android:id="@+id/sua_ll_gender"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -147,7 +147,7 @@
 
     <EditText
         android:id="@+id/sua_et_gmail"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -162,7 +162,7 @@
 
     <EditText
         android:id="@+id/sua_et_mobile_number"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -177,7 +177,7 @@
 
     <LinearLayout
         android:id="@+id/sua_ll_buttons"
-        android:layout_width="0dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -192,9 +192,9 @@
 
         <Button
             android:id="@+id/sua_btn_register"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:text="@string/sua_btn_register"
             android:textSize="18sp"
             android:textStyle="bold"
@@ -204,9 +204,9 @@
 
         <Button
             android:id="@+id/sua_btn_clear"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="2"
             android:text="@string/sua_btn_clear"
             android:textSize="18sp"
             android:textStyle="bold"
